@@ -11,7 +11,21 @@ sentences = [
     "A journey of a thousand miles begins with a single step.",
     "This is the way for us to reference the object of the class.",
     "Time and tide waits for none.",
-    "I woke up, I saw her. Thats all I know."
+    "I woke up, I saw her. Thats all I know.",
+    "Practice every day to improve your typing speed.",
+    "Consistency is the key to long term success.",
+    "Hard work beats talent when talent does not work hard.",
+    "Typing fast requires both accuracy and focus.",
+    "Never give up even when things get difficult.",
+    "Small steps every day lead to big results.",
+    "Stay focused and keep improving your skills.",
+    "Success comes to those who keep trying.",
+    "Discipline is more important than motivation.",
+    "Learning never stops in the journey of life.",
+    "Your future depends on what you do today.",
+    "Focus on progress not perfection.",
+    "Believe in yourself and trust the process.",
+    "Great things take time so be patient."
 ]
 
 
