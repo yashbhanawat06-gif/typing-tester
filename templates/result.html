@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>📊 Your Results</h1>
+
+        <div class="section">
+            <p class="label">Original Text</p>
+            <p class="box">{{ original }}</p>
+        </div>
+
+        <div class="section">
+            <p class="label">Your Input</p>
+            <p class="box">{{ typed }}</p>
+        </div>
+
+        <div class="stats">
+            <div class="card">🎯 Accuracy <br><strong>{{ accuracy }}%</strong></div>
+            <div class="card">⏱ Time <br><strong>{{ time_taken }}s</strong></div>
+            <div class="card">🚀 WPM <br><strong>{{ wpm }}</strong></div>
+        </div>
+
+        <a href="/">
+            <button>🔁 Try Again</button>
+        </a>
+    </div>
+
+</body>
+
+</html>
