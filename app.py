@@ -5,13 +5,11 @@ app = Flask(__name__)
 
 
 sentences = [
-    "You know nothing John Snow!",
     "Mitochondria is the powerhouse of the cell.",
     "The quick brown fox jumps over the lazy dog.",
     "A journey of a thousand miles begins with a single step.",
     "This is the way for us to reference the object of the class.",
     "Time and tide waits for none.",
-    "I woke up, I saw her. Thats all I know.",
     "Practice every day to improve your typing speed.",
     "Consistency is the key to long term success.",
     "Hard work beats talent when talent does not work hard.",
