@@ -25,7 +25,16 @@ sentences = [
     "Your future depends on what you do today.",
     "Focus on progress not perfection.",
     "Believe in yourself and trust the process.",
-    "Great things take time so be patient."
+    "Great things take time so be patient.",
+    "Code is like humor, when you have to explain it, it is bad.",
+    "First solve the problem, then write the code.",
+    "Experience is the name everyone gives to their mistakes.",
+    "JavaScript is single threaded but handles async tasks efficiently.",
+    "Python is widely used in data science and machine learning.",
+    "Debugging is twice as hard as writing the code in the first place.",
+    "In programming, clarity is better than cleverness."
+    "Always write clean and readable code for future developers.",
+    "Git helps developers track and manage code changes efficiently."
 ]
 
 
