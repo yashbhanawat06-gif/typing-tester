@@ -14,4 +14,4 @@ A simple web app to test typing speed, accuracy, and time taken.
 - Random sentences
 
 🌐 Live Demo
-(Add your link here)
+https://typing-tester-dnxl.onrender.com
