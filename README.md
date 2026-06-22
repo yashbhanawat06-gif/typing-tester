@@ -16,7 +16,9 @@ A simple web application to test typing speed, accuracy, and time taken.
 - Python (Flask)  
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript
 
-🌐 Live Demo
-https://typing-tester-dnxl.onrender.com
+---
+
+## 🌐 Live Demo
+- https://typing-tester-dnxl.onrender.com
