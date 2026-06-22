@@ -20,5 +20,5 @@ A simple web application to test typing speed, accuracy, and time taken.
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Link
 - https://typing-tester-dnxl.onrender.com
